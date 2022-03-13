@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: V-Rep; Ros; Mujoco; Unity3D; Soloidworks; Isaac SDK; Admas; Protel99SE; Arduino
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name: Robot
+- description: Matlab; PyTorch; Python; C#; Arduino;
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Analysis
+- description:  Corel Video Studio;
   icon: camera-retro
   icon_pack: fas
   name: Photography

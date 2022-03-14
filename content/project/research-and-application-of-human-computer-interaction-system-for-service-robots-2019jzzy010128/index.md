@@ -6,8 +6,9 @@ draft: false
 featured: false
 tags:
   - Robot
+links: []
 image:
-  filename: featured
+  filename: null
   focal_point: Smart
   preview_only: false
 ---

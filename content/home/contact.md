@@ -43,6 +43,9 @@ content:
   #     icon_pack: fas
   #     name: Zoom Me
   #     link: 'https://zoom.com'
+  coordiantes:
+    latitude: '32.1160'
+    longitude: '118.9592'
 
 design:
   columns: '2'

@@ -26,7 +26,7 @@ experience:
     company: Tsinghua University
     company_url: 'https://www.tsinghua.edu.cn/'
     location: Beijing
-    date_start: '2021-9-26'
+    date_start: '2021-09-26'
     date_end: ''
     description: |2-
         Research Area:
@@ -40,7 +40,7 @@ experience:
     company_logo: org-x
     location: Shenzhen
     date_start: '2021-03-01'
-    date_end: '2021-9-25'
+    date_end: '2021-09-25'
     description: |2-
         Research Area:
         * DRL

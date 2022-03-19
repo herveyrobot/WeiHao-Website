@@ -7,7 +7,7 @@ summary: ""
 url_video: ""
 date: 2016-12-29T07:51:00.000Z
 external_link: ""
-url_slides: ""
+# url_slides: ""
 subtitle: ""
 tags:
   - Control

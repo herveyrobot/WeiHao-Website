@@ -37,7 +37,7 @@ experience:
   - title: Internship
     company: Shenzhen Institute of Artificial Intelligence and Robotics for Society
     company_url: 'https://airs.cuhk.edu.cn/en'
-    company_logo: org-x
+    # company_logo: org-x
     location: Shenzhen
     date_start: '2021-03-01'
     date_end: '2021-09-25'
